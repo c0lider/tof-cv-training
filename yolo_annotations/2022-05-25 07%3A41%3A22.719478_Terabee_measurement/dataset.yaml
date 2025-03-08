@@ -1,0 +1,10 @@
+# YOLOv8 dataset configuration
+path: yolo_annotations
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0: Person
+  1: person
